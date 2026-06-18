@@ -1,0 +1,35 @@
+# Ignore everything by default, then allow only the public website files.
+/*
+
+# Pages (HTML)
+!index.html
+!about.html
+!scholarship.html
+!teaching.html
+!speaking.html
+!consulting.html
+!books.html
+
+# Images
+!jess 2.jpg
+!jess 3.jpg
+!jess 4 cropped.jpg
+!720.jpg
+!Jess photo ohrid.jpeg
+!IMG_6498.jpeg
+!IMG_7628_cropped.jpeg
+!be0c91b5-d65e-4623-816d-dddf3a6e6dca.JPG
+!IMG_6636.jpg
+!NeoEco2022 09 07.jpg
+!a83d112c-9696-411b-ba60-9c2b7f732dc2.JPG
+
+# Video
+!42a62faf-9956-41e7-8013-6a1350e680ad.MP4
+
+# PDFs (CV + linked presentation)
+!Navarro CV 2026.pdf
+!PACE Presentation - IPA - Draft 2026 02 08.pdf
+
+# Config files that must be tracked
+!.gitignore
+!CNAME
